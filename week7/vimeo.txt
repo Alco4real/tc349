@@ -1,0 +1,13 @@
+At first glance, one can tell right away that Vimeo is a very colorful and  
+lively site. The splash image and other page art are very whimsical. For  
+being a video playing/uploading site I would picture the search bar being  
+larger, but Vimeo does feature a drop-down menu for that in its navigation so I guess the need is fulfilled. Furthermore, the "What can you do here?"  
+section is a bit farther down the page than what would be useful on the main  
+page, perhaps leave the main page relegated to recent news and have a  
+separate page for "what you can do here".
+
+Most of the side pages (through the explore tab) use a white template but  
+have varied layouts from two-column to fluid/multi-column. Even though these  
+side pages are consistent in theme, I feel like vimeos main page has many  
+different color schemes to it. I would either keep the main page consistent,  
+or add some color to the other pages.
