@@ -1,0 +1,3 @@
+At first glance, the MSU mobile site appears to be nothing special. Aesthetically, the site is very plain. The color scheme is the standard MSU green and white, and buttons are pretty simple. I feel that the site should be much more visually appealing, especially on a mobile device where bright colors stand out more.
+The navigation, however, is very simple to use. The buttons are big enough for fingers to press easily. The sub-pages that include lists (News, About MSU, etc.) are nicely ordered to allow for easy navigation. However, there is no obvious way to return to the home page, save for the "MSU" text at the top of the page.
+In summary, the technical aspects of the MSU mobile site are well done, but the visual appearance leaves much to be desired.
